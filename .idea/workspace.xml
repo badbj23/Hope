@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1daeb842-770b-40d5-a0ff-51e567c9b9d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/components/ListHeading.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/SubCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/UpcomingSubCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/constants/images.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/utils.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/(tabs)/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(tabs)/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/_layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/_layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants/data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/constants/data.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +87,8 @@
       <workItem from="1777471640953" duration="1984000" />
       <workItem from="1777474783608" duration="95000" />
       <workItem from="1777474907069" duration="13931000" />
-      <workItem from="1777999753335" duration="1179000" />
+      <workItem from="1777999753335" duration="19945000" />
+      <workItem from="1778508353937" duration="3202000" />
     </task>
     <servers />
   </component>
